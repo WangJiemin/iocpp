@@ -10,6 +10,8 @@ To install 'iocpp':
 g++ iocpp.cpp -g -o iocpp && mv iocpp /usr/local/bin
 ```
 
+If you don't want to compile, please use iocpp directly.
+
 -----
 
 ### Version
