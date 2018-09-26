@@ -1,13 +1,13 @@
-iopp
+iocpp
 
 Linux system disk I/O usage analysis.
 
 -----
 
-To install 'iopp':
+To install 'iocpp':
 
 ```sh
-g++ iopp.cpp -g -o iopp && mv iopp /usr/local/bin
+g++ iocpp.cpp -g -o iocpp && mv iocpp /usr/local/bin
 ```
 
 -----
